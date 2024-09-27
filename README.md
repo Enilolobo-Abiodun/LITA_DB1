@@ -4,8 +4,7 @@ DOCUMENTATIONS OF MY FIRST PROJECT WITH INCUBATOR HUB
 
 [Project Overview](#project-overview)
 
-[IMAGE](#![IMG-20190616-WA0022](https://github.com/user-attachments/assets/113c0e57-8581-4906-9101-59f5bd491f6d))
-
+[TABLES](#Heading_1)
 ```sql
 select * from table2
 where condition = true
