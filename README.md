@@ -4,7 +4,7 @@ DOCUMENTATIONS OF MY FIRST PROJECT WITH INCUBATOR HUB
 
 [Project Overview](#project-overview)
 
-[Thanks Giving](#appreciation_to_God)
+[appreciation to God](#appreciation_to_God)
 ```sql
 select * from table2
 where condition = true
